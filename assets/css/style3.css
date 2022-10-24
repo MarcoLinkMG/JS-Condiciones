@@ -1,0 +1,31 @@
+.titulo{
+    text-align: center;
+    align-items: center;
+    font-size: 150%;
+    font-weight:900;
+
+}
+
+.row{
+
+    display:flex; 
+    justify-content:center;
+    
+}
+
+.footer{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    text-align: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.footer button{
+
+    justify-content:center;
+    text-align: center;
+    align-items: center;
+    
+}

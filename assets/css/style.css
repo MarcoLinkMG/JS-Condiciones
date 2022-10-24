@@ -1,0 +1,24 @@
+.titulo{
+    text-align: center;
+}
+
+.row{
+
+    display:flex; 
+    justify-content:center;
+}
+
+.footer{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    text-align: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.footer button{
+
+    width:10%;
+    
+}
